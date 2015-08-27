@@ -10,8 +10,8 @@ or by appointment.
 **Class Time:** T/H 6:00-7:15 PM.
 **Room:** SENSQ 5129
 
-**TA:** John Felen
-**TA Office Hours:** T/TH 3:50 - 5:50 CRC
+**TA:** John Felen  
+**TA Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
 
 **Class GitHub repo:** https://www.github.com/laboon/cs1699  
 **"Textbook" repo:** https://www.github.com/laboon/ebook  
