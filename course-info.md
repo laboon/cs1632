@@ -17,7 +17,7 @@ Software Quality Assurance
 
 **TA**: Xiang Xiao (`xix22@pitt.edu`)
 
-**Class GitHub repo:** https://www.github.com/laboon/cs1632
+**Class GitHub repo:** https://www.github.com/laboon/cs1632  
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
 * This is a PDF and is available on Github
   * https://github.com/laboon/software-testing/blob/master/software-testing-laboon-ebook.pdf
