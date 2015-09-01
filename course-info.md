@@ -12,8 +12,10 @@ Software Quality Assurance
 **Class Time:** T/H 6:00-7:15 PM.
 **Room:** SENSQ 5129
 
-**TA:** John Felen  
-**TA Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
+**Peer Tutor:** John Felen (`jtf28@pitt.edu`)
+**Peer Tutor Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
+
+**TA**: Xiang Xiao (`xix22@pitt.edu`)
 
 **Class GitHub repo:** https://www.github.com/laboon/cs1632
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
@@ -43,11 +45,12 @@ process.
 
 * Mid-term Exam - 15%
 * Final Exam - 15%
-* Group Projects:
+* Projects:
   * Deliverable 1 - 10%
-  * Deliverable 2 - 15%
-  * Deliverable 3 - 15%
+  * Deliverable 2 - 10%
+  * Deliverable 3 - 10%
   * Deliverable 4 - 10%
+  * Deliverable 5 - 10%
   * Final Deliverable - 15%
 * Class Participation - 5%
 
@@ -78,6 +81,13 @@ However, any student caught collaborating or cheating on an exam will
 automatically receive a 0 (zero) for that exam, and may be penalized
 more harshly based on University of Pittsburgh academic policy.
 
+Assignments should be committed and pushed to GitHub by the beginning
+of class on the due date.  Write-ups are due at the beginning of class.
+Late assignments will not be accepted.
+
+If any disputes from groups arise, I will assume that GitHub is the "ground 
+truth".  
+
 The final exam will be cumulative.
 
 It is recommended you keep all of your graded assignments until final
@@ -101,21 +111,20 @@ it is safe to do so, of course).  Failure to show up for an exam
 without clearing it first with the instructor will result in a 0
 (zero) for that exam.
 
-## Group Project Details
+## Project Details
 
-Students will be grouped into groups of 2.  For the first four deliverables, 
-groups will be assigned and will be different each time.  For the final 
-deliverable, you can choose to work alone, or choose your own partner 
-(who must, of course, also agree to work with you)
+For deliverables 1, 3 and 5, groups of two will be assigned and will be
+different each time.  For the final deliverable, you can choose to work
+alone, or choose your own partner (who must, of course, also agree to work with you).  This partner can be someone with whom you have worked previously.
 
 Students will perform the role of QA team on a project which can be selected either by themselves, or assigned by the instructor.  Although students can select to work on a different project, it must first be cleared with the instructor.  Additionally, it should be noted that the instructor and/or TA may not be able to help as much if you use a different project or language!    The group should check with the instructor as to the feasibility of
 the particular project they are working on.  
 
 * **Deliverable 1:** A test plan and traceability matrix
-* **Deliverable 2:** Sufficient unit tests for a large subset of the
-project's functionality.
-* **Deliverable 3:** Sufficient automated acceptance tests for a web application.
+* **Deliverable 2:** Unit tests for a console-based application.
+* **Deliverable 3:** Automated acceptance tests for a web application.
 * **Deliverable 4:** Performance testing of an application.
+* **Deliverable 5:** Security analysis of an application.
 * **Final Deliverable:** Will vary based on the group.  See the Final Deliverable description for details of what is expected.
 
 Deliverables must be handed in by close of class on the day that it is
