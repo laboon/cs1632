@@ -4,8 +4,10 @@ Software Quality Assurance
 ## Course Information
 
 **Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
-**Professor's Office Hours:** SENSQ 6305, T/H 5:00-6:00 PM and W 12:00-1:00 PM , 
-or by appointment.  
+**Professor's Office Hours:** SENSQ 6305
+* T/H 5:00-6:00 PM
+* W 12:00-1:00 PM
+* or by appointment.  
 
 **Class Time:** T/H 6:00-7:15 PM.
 **Room:** SENSQ 5129
@@ -13,9 +15,14 @@ or by appointment.
 **TA:** John Felen  
 **TA Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
 
-**Class GitHub repo:** https://www.github.com/laboon/cs1699  
-**"Textbook" repo:** https://www.github.com/laboon/ebook  
-**Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.  This is a PDF and will be sent to students.
+**Class GitHub repo:** https://www.github.com/laboon/cs1632
+**Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
+* This is a PDF and is available on Github
+  * https://github.com/laboon/software-testing/blob/master/software-testing-laboon-ebook.pdf
+* Note that it is subject to updates, as it is still undergoing review.
+  * If you spot a typo or mistake, or suggest an improvement that I use, and file it as a pull request or issue on the source repository (ebook), you can get 0.5 extra percentage point (out of 100), up to 2 percentage points.
+  * In other words, if you finish the semester with a 90, but submitted 4 valid issues / typo fixes / whatever, your final grade is 90 + 2, 92.
+
 **Recommended Texts:** 
 
 Test-Driven Development: By Example, Kent Beck ISBN-13: 978-0321146533
@@ -84,6 +91,9 @@ The instructor will try to ensure that all information on the exams
 will be available via slides, but simply reading them may be
 insufficient to understand the concepts thoroughly. 
 
+Presence for group exercise days is required in order to get the full
+class participation score.  These will not be rescheduled individually.
+
 Presence for the mid-term and final exam are REQUIRED.  They will be
 individually re-scheduled only in the event of an emergency.  If you
 are facing an emergency, please contact the instructor IMMEDIATELY (if
@@ -113,9 +123,11 @@ due.  Late deliverables will NOT be accepted.
 
 ## Programming Language Selection
 
-The instructor is open to groups using any programming language or
-testing framework.  However, it is *strongly* recommended that it be done in
-Java.  All of the tools discussed will be supported by the professor and TA. If your group decides to use another language, the instructor may not be able to help with problems specific to that language.
+For deliverables 2 through 4, the class will use Java with the appropriate
+frameworks (JUnit, Mockito, Selenium).  For the final project, student
+groups are free to choose their own language/framework if they wish.
+However, the professor may not be able to help them if he is not familiar
+with the language/framework of their choice!
 
 If you want to use Java but aren't a fan of Eclipse, information on setting up the [Gradle build tool](https://gradle.org/) with the required packages for this course can be found [here](https://gist.github.com/alexlafroscia/c6757de349b27e34eff6).  
 
