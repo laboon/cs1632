@@ -12,7 +12,7 @@ Software Quality Assurance
 **Class Time:** T/H 6:00-7:15 PM.
 **Room:** SENSQ 5129
 
-**Peer Tutor:** John Felen (`jtf28@pitt.edu`)
+**Peer Tutor:** John Felen (`jtf28@pitt.edu`)  
 **Peer Tutor Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
 
 **TA**: Xiang Xiao (`xix22@pitt.edu`)
@@ -60,18 +60,18 @@ The following grading scale will be used.
 
 Score  | Grade
 -----: | ------------------------------
-100-94 | A (A+ for extraordinary work)
-93-91  | A-
-90-88  | B+
-87-84  | B
-83-81  | B-
-80-78  | C+
-77-74  | C
-73-71  | C-
-70-68  | D+
-67-64  | D
-63-61  | D-
-60-0   | F
+100.00-94.00 | A (A+ for extraordinary work)
+93.99-91.00  | A-
+90.99-88.00  | B+
+87.99-84.00  | B
+83.99-81.00  | B-
+80.99-78.00  | C+
+77.99-74.00  | C
+73.99-71.00  | C-
+70.99-68.00  | D+
+67.99-64.00  | D
+63.99-61.00  | D-
+60.99-0.00   | F
 
 All groups are expected to do their own work on the group project, but
 are more than welcome to collaborate and ask questions with other
@@ -132,7 +132,7 @@ due.  Late deliverables will NOT be accepted.
 
 ## Programming Language Selection
 
-For deliverables 2 through 4, the class will use Java with the appropriate
+For deliverables 1 through 5, the class will use Java with the appropriate
 frameworks (JUnit, Mockito, Selenium).  For the final project, student
 groups are free to choose their own language/framework if they wish.
 However, the professor may not be able to help them if he is not familiar
