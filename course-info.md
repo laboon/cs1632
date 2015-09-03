@@ -16,6 +16,7 @@ Software Quality Assurance
 **Peer Tutor Office Hours:** T/TH 3:50 - 5:50 CRC (5710 Sennott Square)  
 
 **TA**: Xiang Xiao (`xix22@pitt.edu`)
+**Office Hours**: Mon/Wed 4:00-5:00 (5808 Sennott Square)
 
 **Class GitHub repo:** https://www.github.com/laboon/cs1632  
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.

@@ -1,15 +1,20 @@
 # Syllabus - Fall 2015
 CS1632: Software Quality Assurance
 
+AFIST = A Friendly Introduction to Software Testing
+
 ## WEEK 1 (Week of 31 Aug)
 *  Introduction - What is Software Testing?
 
 * Testing Basics
+  * READING: AFIST, Chapters 2 - 4
 
 ## WEEK 2 (Week of 7 Sep)
 * Requirements Development and Testing
+  * READING: AFIST, Chapter 5
 
 * Test Plans
+  * READING: AFIST, Chapter 6-8
 
 * Exploratory, Smoke, Stochastic Testing
 
