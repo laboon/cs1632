@@ -13,8 +13,6 @@ CS1632: Software Quality Assurance
 
 * Exploratory, Smoke, Stochastic Testing
 
-* ASSIGNED: DELIVERABLE 1
-
 ## WEEK 3 (Week of 14 Sep)
 * Defects
 
@@ -27,15 +25,11 @@ CS1632: Software Quality Assurance
 
 * Advanced Unit Testing
 
-* **DUE: DELIVERABLE 1**
-
 ## WEEK 5 (Week of 28 Sep)
 
 * Test-driven Development
 
 * Writing Testable Code
-
-* ASSIGNED: DELIVERABLE 2
 
 ## WEEK 6 (Week of 5 Oct)
 
@@ -48,9 +42,6 @@ CS1632: Software Quality Assurance
 * Web Testing with Selenium
 
 * Automated Web Testing with Selenium / JUnit
-
-* DUE: DELIVERABLE 2
-* ASSIGNED: DELIVERABLE 3
 
 ## WEEK 8 (Week of 19 Oct)
 
@@ -68,15 +59,11 @@ CS1632: Software Quality Assurance
 
 * Formal Verification, cont'd.
 
-* DUE: DELIVERABLE 3
-
 ## WEEK 11 (Week of 9 Nov)
 
 * Performance Testing
 
 * Performance Testing, continued
-
-* ASSIGNED: DELIVERABLE 4
 
 ## WEEK 12 (Week of 16 Nov)
 
@@ -87,9 +74,6 @@ CS1632: Software Quality Assurance
 ## WEEK 13 (Week of 23 Nov)
 
 * Interacting With Stakeholders
-
-* DUE: DELIVERABLE 4
-* ASSIGNED: FINAL DELIVERABLE
 
 ## WEEK 13 (Week of 30 Nov)
 
@@ -102,8 +86,6 @@ CS1632: Software Quality Assurance
 * Testing as a Career
 
 * Final Thoughts
-
-* DUE: FINAL DELIVERABLE
 
 ## WEEK 15 (Week of 12 Dec)
 
