@@ -14,7 +14,7 @@ AFIST = A Friendly Introduction to Software Testing
   * READING: AFIST, Chapter 5
 
 * Test Plans
-* Exploratory, Smoke, Stochastic Testing
+* Exploratory and Smoke Testing
   * READING: AFIST, Chapter 6-8
 
 
