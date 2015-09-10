@@ -1,5 +1,5 @@
-# CS 1699 - Software Testing
-Spring Semester 2015
+# CS 1632 - Software Testing
+Fall Semester 2015
 
 ## Deliverable 1
 
@@ -23,7 +23,7 @@ It is expected that you actually execute the test plan in order to find the defe
 Please hand in the paper to me with a cover page with:
 * The name of the project under test
 * The names of the people in the group
-* The title "CS 1699 - DELIVERABLE 1: Test Plan and Traceability Matrix"
+* The title "CS 1632 - DELIVERABLE 1: Test Plan and Traceability Matrix"
 
 There should be a short introduction (a few paragraphs) in which you may note any concerns or difficulties you may have had or anticipate with the testing process.  You should also note  why you considered certain test cases, how you thought of edge cases, etc.
 
