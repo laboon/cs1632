@@ -14,27 +14,32 @@ AFIST = A Friendly Introduction to Software Testing
   * READING: AFIST, Chapter 5
 
 * Test Plans
+* Exploratory, Smoke, Stochastic Testing
   * READING: AFIST, Chapter 6-8
 
-* Exploratory, Smoke, Stochastic Testing
 
 ## WEEK 3 (Week of 14 Sep)
 * Defects
+  * READING: AFIST, Chapter 9
 
 * Breaking Software
 
 ## WEEK 4 (Week of 21 Sep)
+
 * Automated and Manual Testing
-
 * Writing Unit Tests (The Basics)
-
+  * READING: AFIST, Chapter 12-13
+  
 * Advanced Unit Testing
+  * READING: AFIST, Chapter 14
 
 ## WEEK 5 (Week of 28 Sep)
 
 * Test-driven Development
-
+  * READING: AFIST, Chapter 15
+  
 * Writing Testable Code
+  * READING: AFIST, Chapter 16
 
 ## WEEK 6 (Week of 5 Oct)
 
@@ -55,8 +60,10 @@ AFIST = A Friendly Introduction to Software Testing
 ## WEEK 9 (Week of 26 Oct)
 
 * Pairwise and Combinatorial Testing
-
-* Property-Based Testing
+  * READING: AFIST, Chapter 17
+  
+* Stochastic and Property-Based Testing
+  * READING: AFIST, Chapter 18
 
 ## WEEK 10 (Week of 2 Nov)
 
@@ -67,18 +74,21 @@ AFIST = A Friendly Introduction to Software Testing
 ## WEEK 11 (Week of 9 Nov)
 
 * Performance Testing
+  * READING: AFIST, Chapter 19
 
 * Performance Testing, continued
 
 ## WEEK 12 (Week of 16 Nov)
 
 * Security Testing
+  * READING: AFIST, Chapter 20
 
 * Security Testing, Cont'd
 
 ## WEEK 13 (Week of 23 Nov)
 
 * Interacting With Stakeholders
+  * READING: AFIST, Chapter 21
 
 ## WEEK 13 (Week of 30 Nov)
 
@@ -90,7 +100,7 @@ AFIST = A Friendly Introduction to Software Testing
 
 * Testing as a Career
 
-* Final Thoughts
+* Final Thoughts / Review for Final
 
 ## WEEK 15 (Week of 12 Dec)
 
