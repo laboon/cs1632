@@ -1,6 +1,8 @@
 # CS 1632 - Software Testing
 Fall Semester 2015
 
+* DUE: 24 SEP 2015
+
 ## Deliverable 1
 
 For this assignment, your group will determine a test plan for the simple game Coffee Maker Quest, based on the requirements listed.  There are several known defects in the software; you will need to find and report on at least three.  Additionally, a traceability matrix showing the mapping of test cases to requirements is required.
