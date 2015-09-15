@@ -7,9 +7,7 @@ Fall Semester 2015
 
 For this assignment, your group will determine a test plan for the simple game Coffee Maker Quest, based on the requirements listed.  There are several known defects in the software; you will need to find and report on at least three.  Additionally, a traceability matrix showing the mapping of test cases to requirements is required.
 
-You may also choose to work on a different piece of software, but you will then be responsible for obtaining or creating the requirements.  It is recommended that you discuss with the professor before choosing a different piece of software.  If you do so, the requirements should completely cover the subset(s) of functionality chosen to test.  This may or may not be the entire application.  If you are going to do a subset of the functionality, please note what the subset is as part of your introduction.
-
-There should be at least as many test cases as requirements, although I would normally expect several test cases per requirement.  As a general rule, I'd estimate that the number of test cases is at least 2x the number of requirements.
+There should be at least as many test cases as requirements, although I would normally expect several test cases per requirement.  As a general rule, I'd estimate that the number of test cases is at least 2x the number of requirements.  If the number of test cases is more than 3x the number of requirements, you are probably overtesting.
 
 Each requirement should have AT LEAST one test case associated with it, and each test should have EXACTLY ONE requirement associated with it.  This can easily be checked via a traceability matrix (which you should also deliver).
 
