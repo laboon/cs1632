@@ -1,0 +1,9 @@
+## Announcements (newest at top)
+
+* Please come to the Pitt Undergrad Welcome Party!
+  * When: Friday, September 18, 2015, 11:00AM-12:30PM
+  * Where: SENSQ 5317
+  * Why:
+    * Hear about CS events, announcements, and advising, career and co-op information
+    * Talk to Professor Laboon and other CS faculty
+    * Get free pizza
