@@ -1,5 +1,9 @@
 ## Announcements (newest at top)
 
+* Guest Lecture next Thursday (24 Sep)
+  * Alex Shenoy, Embedded Software Engineer, 4Moms
+  * Intro to Git
+
 * Please come to the Pitt Undergrad Welcome Party!
   * When: Friday, September 18, 2015, 11:00AM-12:30PM
   * Where: SENSQ 5317

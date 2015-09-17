@@ -23,6 +23,7 @@ AFIST = A Friendly Introduction to Software Testing
   * READING: AFIST, Chapter 9
 
 * Breaking Software
+  * READING: AFIST, Chapter 7
 
 ## WEEK 4 (Week of 21 Sep)
 
