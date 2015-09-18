@@ -1,0 +1,407 @@
+
+1. (5 pts)
+A coffee shop offers some special deals for their coffee.  A regular coffee costs $2.00.  However,
+military veterans can get coffee for $1.00.  Seniors (over age 65) can get coffee for $1.00.  All
+students can get 20% off of the price of coffee, regardless of their military status or age.
+
+Partition this into equivalence classes and write them down below.
+
+
+
+
+
+
+
+
+2. (3 pts)
+An online toy store is offering a deal for the holidays.  Any order of $100.00 or more will get a
+free teddy bear.  Any order of $1,000.00 or more will get a free tricycle, but no teddy bear.  Any order
+of $10,000.00 or more will get a free tricycle and a teddy bear.  Any order not meeting these requirements
+will get a free lollipop.
+
+What are the boundary values?
+
+
+
+
+
+
+
+
+
+
+3. (3 pts)
+Your company offers an exciting new product, "Fibonacci-as-a-service".  The customer
+ emails your company a number n, and the company will email back with the nth Fibonacci
+number (remember the Fibonacci sequence is [0, 1] and each additional number is the sum
+of the previous two, e.g. [0, 1, 1, 2, 3, 5, 8...].  You are in charge of testing this and thinking
+of test cases.
+
+Include a description of the case as well as a (reasonable) expected value.
+
+Write a base case:
+
+
+
+
+
+Write an edge case:
+
+
+
+
+
+Write a corner case:
+
+
+
+
+
+
+4. (2 pts)
+Explain the difference between black-box and white-box testing.
+
+
+
+
+
+
+
+
+
+5. (3 pts)
+Explain the difference between static and dynamic testing.  Give one example of each.
+
+
+
+
+
+
+
+
+6. (4 pts)
+For each of the following requirements, write down one reason why it is not a good requirement.
+
+a. The system shall use a Hashmap to store all login attempts.
+
+
+
+
+
+b. The system shall be extremely responsive.
+
+
+
+
+
+c. Whenever the system retrieves an invalid name and birthdate for a user, it will be set to the default.
+
+
+
+
+
+d. The system will run continuously and never have any downtime.
+
+
+
+
+
+
+7. (4 pts)
+a. Give an example of a functional requirement for a database system.
+
+
+
+
+
+
+b. Give an example of a non-functional requirement (quality attribute) for a database system.
+
+
+
+
+
+
+8. (15 pts)
+Develop a test plan (with three test cases) for a Collatz Conjecture Tester.
+
+The Collatz Conjecture is that for any natural number n, if n is even, divide it by 2
+(n = n * 2); if odd, multiply by 3 and add 1 (n = 3n + 1).  Repeat the process with the
+new number until 1 is reached (e.g., 5 -> 16 -> 8 -> 4 -> 2 -> 1).  The conjecture
+is that every natural number subjected to this sequence will eventually reach 1;
+this has been tested up to 5.764 x 10^18 but never proven.
+
+Upon initial execution, the system shall prompt the user with the prompt:
+"Enter number >" without the quotes.
+
+After accepting input from the user, if the input is not a natural number (i.e., an
+integer of value 1 or greater), then the system shall display "NOT A NATURAL NUMBER"
+and exit.
+
+If the input is a natural number, the system shall calculate the sequence according to the
+rules of the Collatz conjecture, and display each iteration of the sequence on a separate line,
+including the initial value input by the user.
+
+Upon reaching the value 1, the system shall display the number of iterations required
+to reach the value of 1 in parentheses ( "(" and ")" ) and exit immediately afterwards.
+
+Sample Output:
+Enter number > 5
+5
+16
+8
+4
+2
+1
+(5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. (4 pts)
+For the following runs of these test cases, write what their status would be listed as.
+
+a. The test case had an expected behavior of displaying 7. Instead, the system displayed 4.
+
+
+
+
+b. The case had an expected behavior of display "FOO".  The system displayed "FOO".
+
+
+
+
+c. The test case could not be executed because the functionality has not yet been developed.
+
+
+
+
+d. The test case has the tester to do something impossible, such as press a button which does
+   not exist and is not planned to be added to the system (because it is command line only).
+
+
+
+
+10. (10 pts)
+After testing the Collatz Conjecture tester, several defects were found.  Write a defect
+report using the template described in class to write a defect report for each.
+
+a. The user entered 7.  The following output appeared: "NOT A NATURAL NUMBER".
+
+
+
+
+
+
+
+
+
+
+b. The user entered -4.  The following output appeared:
+-4
+-2
+-1
+(-2)
+
+
+
+
+
+
+
+
+
+
+11. (4 pts)
+ Suppose we have a function, int billify( int n), which has the following requirements:
+If the value of n is less than 5, return 1.
+If the value of n greater than or equal to 5, but less than 20, return 2.
+If the value is 20 or greater, return 3.
+
+Assume no integer overflows (MAXINT and MININT are infinity and -infinity).
+
+Does the following function definition contain a defect?  Why or why not?
+
+public class Bill {
+  public int billify(int n) {
+    int toReturn = 6;
+    if (toReturn == 6) {
+      toReturn++;
+    } else {
+      toReturn = 7;
+    }
+    if (toReturn > 0) {
+    if (n - 5 < 0) {
+      return 1;
+    } else {
+      if (n - 19 <= 0) {
+        return 2;
+      } else {
+        return 3;
+      }
+    }
+    return toReturn;
+  }
+}
+
+
+
+
+
+
+
+12. (15 pts)
+Write three unit tests in JUnit for the billify function in the previous question,
+each one testing a different equivalence class.
+There is no need for writing out the import statements, but remember to include the
+appropriate annotations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. (3 pts)
+A user complains that he wants to test the Collatz Conjecture on negative numbers,
+but the user receives an error when he/she enters a negative number into the program.
+Is this a defect?  Why or why not?
+
+
+
+
+
+
+
+14. (3 pts)
+ In unit testing...
+a. Define the following: "stub".
+
+
+
+b. Define the following: "mock".
+
+
+
+
+15. (3 pts)
+Describe the red-green-refactor loop in TDD.
+
+
+
+
+
+
+
+
+16. (2 pts)
+In TDD, what does YAGNI stand for?
+
+
+
+
+
+
+
+17. (5 pts)
+You are a user of the Rent-A-Cat platform.  However, you have noticed that there is some
+functionality missing which you would really like.  Using the Connextra template discussed in class,
+write out a user story for this missing functionality.
+
+
+
+
+
+
+
+
+
+
+18. (4 pts)
+Write out one scenario for that user story, using the given/when/then template discussed in class.
+
+
+
+
+
+
+
+
+
+
+19. (6 pts)
+You are testing software for a data repository for sale to a large hospital in the Pittsburgh region.  This
+data repository must meet all sorts of legal and regulatory hurdles due to it storing confidential
+patient data.  Although the hospital will buy it, it will be used primarily by doctors and nurses in the
+system.  They will look up data for individual patients, and it will let them know what courses of action
+have been taken in the past.  The development team is very large and has a project manager who
+likes to keep a close eye on the project, which has been running a little late.  Due to this, developers are
+staying late at work and eating lots of pizza, which is causing the janitor much grief since the garbage
+cans are overflowing with pizza boxes.  They are also drinking much more coffee than normal, much to the
+delight of the barista in the coffee shop next to the office (as the developers are generous tippers).
+
+If the sale goes through, the financials of this company will improve markedly.  The CEO has remarked
+several times that the success of the project is essential to the success of the company.  The CFO has
+mentioned numerous times that without the revenue generated by the sale of this project, earnings
+will dip below Wall Street expectations.
+
+List five classes of stakeholder for this project, and what they are likely care about.
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. (2 pts)
+Fill in the blank with the correct term.
+
+a. _______________________ is building the RIGHT software.  That is, it is ensuring that the software
+as developed and specified meets the needs of the users and customers.
+
+b. _______________________ is building the software RIGHT.  That  is, it is ensuring that the software
+is stable and meets all of the specified requirements.
