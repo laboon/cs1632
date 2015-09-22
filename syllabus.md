@@ -30,23 +30,24 @@ AFIST = A Friendly Introduction to Software Testing
 * Automated and Manual Testing
 * Writing Unit Tests (The Basics)
   * READING: AFIST, Chapter 12-13
-  
-* Advanced Unit Testing
-  * READING: AFIST, Chapter 14
+
+* Guest Lecture: Alex Shenoy, Using Git
 
 ## WEEK 5 (Week of 28 Sep)
+
+* Advanced Unit Testing
+  * READING: AFIST, Chapter 14
 
 * Test-driven Development
   * READING: AFIST, Chapter 15
   
+## WEEK 6 (Week of 5 Oct)
+
 * Writing Testable Code
   * READING: AFIST, Chapter 16
 
-## WEEK 6 (Week of 5 Oct)
-
 * Behavior-Driven Development
-
-* Writing Acceptance Tests for Behavior-Driven Development
+  * Writing Acceptance Tests for Behavior-Driven Development
 
 ## WEEK 7 (Week of 12 Oct)
 
