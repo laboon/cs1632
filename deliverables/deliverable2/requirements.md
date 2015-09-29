@@ -1,4 +1,4 @@
-CitySim9000 Requirements
+## CitySim9000 Requirements
 
 FUN-CITY-LOCS. The program shall simulate a city with four locations: Mall, Bookstore, Coffee Shop, and University.
 
@@ -22,6 +22,7 @@ FUN-ARGS. The system shall accept an integer seed from the command line for the 
 
 It may be easier to understand the map of the city visually.
 
+```
 	 City Map
 	
 	   ---> [Mall] ----> [Bookstore] ----> Fourth Ave.
@@ -29,4 +30,4 @@ It may be easier to understand the map of the city visually.
 	 Meow St.|  |         |   | Chirp St.
  	         |  V         |   V
 	   <--- [Coffee] <-- [University] <--- Fifth Ave.
-	
+```	
