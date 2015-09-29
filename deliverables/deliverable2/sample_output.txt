@@ -1,0 +1,112 @@
+(712) $ java CitySim9000 9
+Driver 0 heading from Outside City to University via Fifth Ave.
+Driver 0 heading from University to Coffee Shop via Fifth Ave.
+Driver 0 heading from Coffee Shop to Mall via Meow St.
+Driver 0 heading from Mall to Bookstore via Fourth Ave.
+Driver 0 heading from Bookstore to University via Chirp St.
+Driver 0 heading from University to Bookstore via Chirp St.
+Driver 0 heading from Bookstore to Outside City via Fourth Ave.
+Driver 0 has left the city!
+-----
+Driver 1 heading from Coffee Shop to Mall via Meow St.
+Driver 1 heading from Mall to Bookstore via Fourth Ave.
+Driver 1 heading from Bookstore to University via Chirp St.
+Driver 1 heading from University to Bookstore via Chirp St.
+Driver 1 heading from Bookstore to Outside City via Fourth Ave.
+Driver 1 has left the city!
+-----
+Driver 2 heading from Bookstore to Outside City via Fourth Ave.
+Driver 2 has left the city!
+-----
+Driver 3 heading from Coffee Shop to Mall via Meow St.
+Driver 3 heading from Mall to Bookstore via Fourth Ave.
+Driver 3 heading from Bookstore to University via Chirp St.
+Driver 3 heading from University to Bookstore via Chirp St.
+Driver 3 heading from Bookstore to University via Chirp St.
+Driver 3 heading from University to Bookstore via Chirp St.
+Driver 3 heading from Bookstore to Outside City via Fourth Ave.
+Driver 3 has left the city!
+-----
+Driver 4 heading from University to Coffee Shop via Fifth Ave.
+Driver 4 heading from Coffee Shop to Mall via Meow St.
+Driver 4 heading from Mall to Bookstore via Fourth Ave.
+Driver 4 heading from Bookstore to Outside City via Fourth Ave.
+Driver 4 has left the city!
+-----
+
+(713) $ java CitySim9000 10
+Driver 0 heading from University to Bookstore via Chirp St.
+Driver 0 heading from Bookstore to University via Chirp St.
+Driver 0 heading from University to Bookstore via Chirp St.
+Driver 0 heading from Bookstore to Outside City via Fourth Ave.
+Driver 0 has left the city!
+-----
+Driver 1 heading from University to Bookstore via Chirp St.
+Driver 1 heading from Bookstore to University via Chirp St.
+Driver 1 heading from University to Bookstore via Chirp St.
+Driver 1 heading from Bookstore to University via Chirp St.
+Driver 1 heading from University to Coffee Shop via Fifth Ave.
+Driver 1 heading from Coffee Shop to Mall via Meow St.
+Driver 1 heading from Mall to Coffee Shop via Meow St.
+Driver 1 heading from Coffee Shop to Outside City via Fifth Ave.
+Driver 1 has left the city!
+-----
+Driver 2 heading from University to Bookstore via Chirp St.
+Driver 2 heading from Bookstore to University via Chirp St.
+Driver 2 heading from University to Bookstore via Chirp St.
+Driver 2 heading from Bookstore to Outside City via Fourth Ave.
+Driver 2 has left the city!
+-----
+Driver 3 heading from University to Coffee Shop via Fifth Ave.
+Driver 3 heading from Coffee Shop to Mall via Meow St.
+Driver 3 heading from Mall to Bookstore via Fourth Ave.
+Driver 3 heading from Bookstore to Outside City via Fourth Ave.
+Driver 3 has left the city!
+-----
+Driver 4 heading from Bookstore to Outside City via Fourth Ave.
+Driver 4 has left the city!
+-----
+
+
+(725) $ java CitySim9000 111
+Driver 0 heading from University to Coffee Shop via Fifth Ave.
+Driver 0 heading from Coffee Shop to Outside City via Fifth Ave.
+Driver 0 has left the city!
+-----
+Driver 1 heading from Mall to Coffee Shop via Meow St.
+Driver 1 heading from Coffee Shop to Mall via Meow St.
+Driver 1 heading from Mall to Bookstore via Fourth Ave.
+Driver 1 heading from Bookstore to Outside City via Fourth Ave.
+Driver 1 has left the city!
+-----
+Driver 2 heading from Mall to Coffee Shop via Meow St.
+Driver 2 heading from Coffee Shop to Mall via Meow St.
+Driver 2 heading from Mall to Bookstore via Fourth Ave.
+Driver 2 heading from Bookstore to University via Chirp St.
+Driver 2 heading from University to Bookstore via Chirp St.
+Driver 2 heading from Bookstore to University via Chirp St.
+Driver 2 heading from University to Bookstore via Chirp St.
+Driver 2 heading from Bookstore to University via Chirp St.
+Driver 2 heading from University to Bookstore via Chirp St.
+Driver 2 heading from Bookstore to University via Chirp St.
+Driver 2 heading from University to Coffee Shop via Fifth Ave.
+Driver 2 heading from Coffee Shop to Mall via Meow St.
+Driver 2 heading from Mall to Coffee Shop via Meow St.
+Driver 2 heading from Coffee Shop to Mall via Meow St.
+Driver 2 heading from Mall to Coffee Shop via Meow St.
+Driver 2 heading from Coffee Shop to Mall via Meow St.
+Driver 2 heading from Mall to Coffee Shop via Meow St.
+Driver 2 heading from Coffee Shop to Mall via Meow St.
+Driver 2 heading from Mall to Coffee Shop via Meow St.
+Driver 2 heading from Coffee Shop to Outside City via Fifth Ave.
+Driver 2 has left the city!
+-----
+Driver 3 heading from Bookstore to University via Chirp St.
+Driver 3 heading from University to Coffee Shop via Fifth Ave.
+Driver 3 heading from Coffee Shop to Outside City via Fifth Ave.
+Driver 3 has left the city!
+-----
+Driver 4 heading from University to Coffee Shop via Fifth Ave.
+Driver 4 heading from Coffee Shop to Outside City via Fifth Ave.
+Driver 4 has left the city!
+-----
