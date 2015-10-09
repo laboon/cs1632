@@ -1,5 +1,7 @@
 ## Announcements (newest at top)
 
+* Link to Alex Shenoy's Git Slides: https://speakerdeck.com/alexshenoy/git-basics
+
 * Guest Lecture next Thursday (24 Sep)
   * Alex Shenoy, Embedded Software Engineer, 4Moms
   * Intro to Git
