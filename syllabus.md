@@ -76,27 +76,30 @@ AFIST = A Friendly Introduction to Software Testing
 
 ## WEEK 11 (Week of 9 Nov)
 
+* Performance Exercise
+
 * Security Testing
   * READING: AFIST, Chapter 20
 
-* Security Testing, Cont'd
-
 ## WEEK 12 (Week of 16 Nov)
 
-* Interacting With Stakeholders
-  * READING: AFIST, Chapter 21
+* Security Testing, Cont'd
 
-* Interacting with Stakeholders, Part 2
+* Security Exercise
 
 ## WEEK 13 (Week of 23 Nov)
 
-* Testing Large Applications
+* Interacting With Stakeholders
+  * READING: AFIST, Chapter 21
+  * Stakeholder Interaction Exercise
+ 
+* THANKSGIVING
 
 ## WEEK 14 (Week of 30 Nov)
 
-* (GUEST LECTURE) Usability Testing
+* Stakeholder Interaction Exercise
 
-* (GUEST LECTURE) Security Testing in Industry
+* (GUEST LECTURE) Usability Testing
 
 ## WEEK 15 (Week of 7 Dec)
 
