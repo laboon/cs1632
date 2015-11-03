@@ -69,41 +69,38 @@ AFIST = A Friendly Introduction to Software Testing
 
 ## WEEK 10 (Week of 2 Nov)
 
-* Formal Verification
-
-* Formal Verification, cont'd.
-
-## WEEK 11 (Week of 9 Nov)
-
 * Performance Testing
   * READING: AFIST, Chapter 19
 
 * Performance Testing, continued
 
-## WEEK 12 (Week of 16 Nov)
+## WEEK 11 (Week of 9 Nov)
 
 * Security Testing
   * READING: AFIST, Chapter 20
 
 * Security Testing, Cont'd
 
-## WEEK 13 (Week of 23 Nov)
+## WEEK 12 (Week of 16 Nov)
 
 * Interacting With Stakeholders
   * READING: AFIST, Chapter 21
 
-## WEEK 13 (Week of 30 Nov)
+* Interacting with Stakeholders, Part 2
+
+## WEEK 13 (Week of 23 Nov)
+
+* Testing Large Applications
+
+## WEEK 14 (Week of 30 Nov)
 
 * (GUEST LECTURE) Usability Testing
 
 * (GUEST LECTURE) Security Testing in Industry
 
-## WEEK 14 (Week of 7 Dec)
+## WEEK 15 (Week of 7 Dec)
 
-* Testing as a Career
+* Testing as a Career / Review for Final / Final Thoughts
 
-* Final Thoughts / Review for Final
+* CUMULATIVE FINAL
 
-## WEEK 15 (Week of 12 Dec)
-
-* CUMULATIVE FINAL (Tuesday at 6:00 PM)
