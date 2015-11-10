@@ -32,7 +32,7 @@ The application accepts four command line arguments.  All of these should be pos
 3. The percentage of cells alive initially 
 4. The number of iterations to run the simulation
 
-Note that iterations can go by pretty quickly, so for your debugging, you may want to set the number of iterations very high (e.g. 30000) and just kill the application when you are done profiling.  You also may want to try running relatively lrge-sized arrays (10x10 or greater).  Remember that performance testing often means running the same test multiple times, or under different conditions, to determine actual performance under real-life load.
+Note that iterations can go by pretty quickly, so for your debugging, you may want to set the number of iterations very high (e.g. 30000) and just kill the application when you are done profiling.  You also may want to try running relatively large arrays (15x15 or greater).  Remember that performance testing often means running the same test multiple times, or under different conditions, to determine actual performance under real-life load.  Try different values if you are not seeing a relatively obvious outlier.
 
 For the summary, describe how you profiled the application and determined the method to refactor, and why you changed what you did.  The summary should not be more than a few paragraphs - definitely less than a page. 
 
