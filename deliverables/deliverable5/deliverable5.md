@@ -21,7 +21,7 @@ Every assignment should have a title page with:
 * The name of the student
 * The title "CS 1632 - DELIVERABLE 5: Performance Testing Conway's Game of Life"
 
-There is no need to print out the code.  It should be issued as a PR against the original repo BY THE BEGINNING OF CLASS.
+There is no need to print out the code.  It should be available on GitHub or a similar code-sharing site BY THE BEGINNING OF CLASS.
 
 In order to determine the "hot spots" of the application, you will need to run a profiler such as VisualVM (download at https://visualvm.java.net/).  Using a profiler, determine a method you can use to measurably increase the speed of the application without modifying behavior.  You may wish to use "time" or a similar command to ensure that you have in fact reduced the amount of time necessary to execute n iterations of the World.
 
