@@ -1,9 +1,9 @@
-# Syllabus - Fall 2015
+# Syllabus - Spring 2015
 CS1632: Software Quality Assurance
 
-AFIST = A Friendly Introduction to Software Testing
+AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
-## WEEK 1 (Week of 31 Aug)
+## WEEK 1 
 *  Introduction - What is Software Testing?
 
 * Testing Basics
