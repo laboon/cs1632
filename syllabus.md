@@ -1,4 +1,4 @@
-# Syllabus - Spring 2015
+# Syllabus - Spring 2016
 CS1632: Software Quality Assurance
 
 AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
