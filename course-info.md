@@ -5,18 +5,15 @@ Software Quality Assurance
 
 **Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
 **Professor's Office Hours:** SENSQ 6305
-* T/H 5:00-6:00 PM
-* W 12:00-1:00 PM
+* T/H 2:30-4:00 PM
+* W 1:30-2:45 PM
 * or by appointment.  
 
-**Class Time:** T/H 6:00-7:15 PM.
+**Class Time:** T/H 4:00-5:15 PM.
 **Room:** SENSQ 5129
 
-**Peer Tutor:** John Felen (`jtf28@pitt.edu`)  
-**Peer Tutor Office Hours:** T/TH 5:30 - 6:00 and 7:15 - 8:00, F 2:00 - 3:00 and 4:00 - 5:00 CRC (5710 Sennott Square)  
-
-**TA**: Xiang Xiao (`xix22@pitt.edu`)
-**Office Hours**: Mon/Wed 4:00-5:00 (5808 Sennott Square)
+**TA**: 
+**Office Hours**: 
 
 **Class GitHub repo:** https://www.github.com/laboon/cs1632  
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
