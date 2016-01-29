@@ -6,7 +6,7 @@ Software Quality Assurance
 **Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
 **Professor's Office Hours:** SENSQ 6305
 * Thursday 2:30-4:00 PM
-* Wednesday 1:30-2:45 PM
+* Wednesday 1:00-2:30 PM
 * or by appointment.  
 
 **Class Time:** T/H 4:00-5:15 PM.
