@@ -191,7 +191,18 @@ public class LinkedListTest {
 		Object obj = new Object();
 		assertFalse(ll01.equals(obj));
 	}
-	
+
+        @Test
+	public void throwException() {
+	    try {
+		doSomethingThatThrowsException();
+		fail();
+	    } catch (Exceptio e) {
+	    }
+	    
+	}
+    
+    
 	//  Check that two LLs with the same Node value with a single node are equal	
 	@Test
 	public void testEqualsOneNodeSameVals() {

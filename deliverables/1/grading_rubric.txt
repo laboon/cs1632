@@ -1,0 +1,43 @@
+Grading Rubric for D1
+
+* Introduction: 10% of grade
+
+Concerns and/or difficulties listed: ____ / 5
+
+Clearly written:                     ____ / 5
+
+* Test Plan: 40% of grade
+
+Test cases are valid (actual
+expected behavior according to reqs) ____ / 15
+
+Test cases include only EXPECTED
+behavior, not OBSERVED behavior:     ____ / 5
+
+Expected behavior and execution
+steps are SPECIFIC:                  ____ / 10
+
+Clearly written:                     ____ / 10
+
+* Traceability Matrix: 20% of grade
+
+Each requirement & TC listed:        ____ / 5
+
+>= 1 Test case per requirement, and
+exactly 1 requirement per TC:        ____ / 5
+
+Test case covers listed reqs:        ____ / 10      
+
+* Defects Found and Described: 30% of grade
+
+Must be >= 3 defects! 10% off for each missing one.
+
+Defects are Reproducible:            ____ / 10  
+
+Include expected/observed behavior:  ____ / 10
+
+Clearly written:                     ____ / 10
+  
+***
+
+Total:                               ____ / 100
