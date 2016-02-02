@@ -13,6 +13,8 @@ All code and tests should be on GitHub by the beginning of class on the due date
 
 Code coverage should be at an absolute minimum of 80%.
 
+Tests should be written in JUnit.  You should test every public method _except_ main.  For each method that you test, ensure that you get a variety of different equivalence classes!  Think about different edge and base cases, what the happy path is, etc.  
+
 ## Format
 You should turn in a title page with:
 * Your name
