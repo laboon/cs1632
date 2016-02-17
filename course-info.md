@@ -19,7 +19,6 @@ Software Quality Assurance
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.
 * This is a PDF and is available on Github
   * https://github.com/laboon/software-testing/blob/master/software-testing-laboon-ebook.pdf
-* Note that it is subject to updates, as it is still undergoing review.
   * If you spot a typo or mistake, or suggest an improvement that I use, and file it as a pull request or issue on the source repository (ebook), you can get 0.5 extra percentage point (out of 100), up to 2 percentage points.
   * In other words, if you finish the semester with a 90, but submitted 4 valid issues / typo fixes / whatever, your final grade is 90 + 2, 92.
 
