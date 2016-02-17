@@ -1,0 +1,49 @@
+Grading Rubric for D2
+
+* Summary and Testing Concerns - 5% of grade
+
+Valid testing concerns and ideas:    ____ / 3
+
+Clearly written:                     ____ / 2
+
+* Screenshot of executed unit tests - 5% of grade
+
+Screenshot included of unit tests:   ____ / 5
+
+* Test coverage report - 10% of grade
+
+Screenshot included:                 ____ / 2
+
+Code coverage >= 80%                 ____ / 8
+
+* Program Functionality & Quality - 40% of grade
+
+Relevant classes:                    ____ / 5
+
+Testable OOP design:                 ____ / 10
+
+Player can move N/S properly:        ____ / 5
+
+Player can look & check inventory:   ____ / 5
+
+Player can ask for help:             ____ / 5
+
+Player can drink and win/lose:       ____ / 5
+
+Rooms display correctly:             ____ / 5
+
+* Test Code - 40% of grade
+
+Test happy path for methods:         ____ / 8
+
+Edge cases tested:                   ____ / 8
+
+At least 3 test doubles:             ____ / 8
+
+At least 3 stubs:                    ____ / 8
+
+Comments included & descriptive:     ____ / 8
+
+***
+
+Total:                               ____ / 100
