@@ -5,7 +5,7 @@ DUE 5 APR 2016
 
 ## Deliverable 5
 
-For this assignment, you (NOT a group) will profile a Conway's Game of Life simulation, and improve its performance by refactoring a single method (to be determined by the results of the profiling).  This will consist of several parts:
+For this assignment, you (NOT a group) will profile a Conway's Game of Life simulation, and improve its performance by refactoring several methods (to be determined by the results of the profiling).  This will consist of several parts:
 
 1. Profiling (before) to determine which method is the most CPU-intensive
 2. Adding pinning tests (in the form of manual and/or unit tests) to show that the functionality is unchanged by your modifications
