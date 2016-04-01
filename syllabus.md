@@ -85,29 +85,25 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 * Security Testing
   * READING: AFIST, Chapter 20
 
-## WEEK 12 (Week of 28 Mar)
-
-* Security Testing, Cont'd
-
-* Security Exercise
+* Security Testing (Penetration Testing)
 
 ## WEEK 13 (Week of 4 Apr)
+
+* Security Exercise
 
 * Interacting With Stakeholders
   * READING: AFIST, Chapter 21
   * Stakeholder Interaction Exercise
 
-* Stakeholder Interaction Exercise
-
 ## WEEK 14 (Week of 11 Apr)
 
-* (GUEST LECTURE) Usability Testing
+* (GUEST LECTURE) Carol Nichols, Quality with Rust
 
-* (GUEST LECTURE) TBD
+* Stakeholder Interaction Exercise
 
 ## WEEK 15 (Week of 18 Apr)
 
-* Testing as a Career / Review for Midterm 2 / Final Thoughts
+* (GUEST LECTURE) Usability Testing
 
 * MIDTERM 2
 
