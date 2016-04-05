@@ -1,7 +1,7 @@
 # CS 1632 - Software Quality Assurance  
-Spring Semester 2015  
-ASSIGNED 5 APR 2015  
-DUE 19 APR 2015  
+Spring Semester 2016  
+ASSIGNED 5 APR 2016  
+DUE 19 APR 2016  
 
 ## Deliverable 6 - THE FINAL DELIVERABLE
 
