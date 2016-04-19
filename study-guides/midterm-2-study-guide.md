@@ -3,17 +3,6 @@ Spring 2015
 
 Note that the second exam is _not_ cumulative, except in the sense that there 
 
-## EXPLORATORY TESTING
-* Be able to define
-* When is it useful?  When is it not?
-* Benefits/drawbacks
-
-## SMOKE TESTS
-* Be able to define
-* Given a system, be able to determine a smoke test for it
-* Scripted vs unscripted
-* Sanity testing
-
 ## COMBINATORIAL TESTING
 * Understand what a covering array is
 * Be able to make a simple covering array
@@ -57,6 +46,10 @@ Note that the second exam is _not_ cumulative, except in the sense that there
 * Be able to describe/test for common attacks: injection, broken authentication, XSS, insecure storage, buffer overruns, smashing the stack, security misconfiguration, insecure object references, social engineering
 * Understand the steps of penetration testing, and why it is useful
 * How does security testing differ from other kinds of testing?
+
+## LANGUAGE AND QUALITY
+* How does Rust protect from common program failures?
+
 
 ## INTERACTING WITH STAKEHOLDERS
 * Be able to name some stakeholders and what is important to them (upper management, project management, testers, other developers)
