@@ -1,5 +1,5 @@
 # CS 1632 Exam 2 Study Guide
-Spring 2015
+Spring 2016
 
 Note that the second exam is _not_ cumulative, except in the sense that there 
 
